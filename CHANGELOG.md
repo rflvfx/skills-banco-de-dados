@@ -489,3 +489,4 @@
 - 2026-08-16: Small fix
 - 2026-10-13: Adjust content
 - 2026-10-14: Add detail
+- 2026-12-12: Polish docs

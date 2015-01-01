@@ -61,3 +61,4 @@
 - 2015-06-28: Small fix
 - 2015-11-05: Minor update
 - 2015-11-07: Refine text
+- 2015-01-01: Update guide

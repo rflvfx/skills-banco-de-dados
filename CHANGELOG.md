@@ -52,3 +52,4 @@
 - 2015-04-10: Add detail
 - 2015-05-26: Add remark
 - 2015-11-17: Update notes
+- 2015-01-14: Adjust content

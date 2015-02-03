@@ -9,3 +9,4 @@
 - 2015-08-23: Polish docs
 - 2015-08-01: Add detail
 - 2015-04-07: Fix example
+- 2015-02-03: Update notes

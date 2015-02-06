@@ -80,3 +80,4 @@
 - 2015-09-10: Improve docs
 - 2015-04-27: Improve docs
 - 2015-12-09: Update notes
+- 2015-02-06: Polish docs

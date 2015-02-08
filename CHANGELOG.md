@@ -75,3 +75,4 @@
 - 2015-07-26: Add remark
 - 2015-05-22: Minor update
 - 2015-08-10: Minor update
+- 2015-02-08: Add detail

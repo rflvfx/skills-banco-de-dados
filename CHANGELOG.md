@@ -48,3 +48,4 @@
 - 2015-03-27: Update notes
 - 2015-04-20: Add note
 - 2015-06-17: Polish docs
+- 2015-02-11: Minor update

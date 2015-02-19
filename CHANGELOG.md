@@ -43,3 +43,4 @@
 - 2026-04-23: Add history tables examples
 - 2026-07-18: Add schema review notes
 - 2015-12-21: Add remark
+- 2015-02-19: Polish docs

@@ -65,3 +65,4 @@
 - 2015-01-07: Adjust content
 - 2015-12-04: Add remark
 - 2015-02-22: Add detail
+- 2015-02-20: Polish docs

@@ -83,3 +83,4 @@
 - 2015-02-06: Polish docs
 - 2015-06-16: Clarify section
 - 2015-09-11: Add detail
+- 2015-02-25: Review content

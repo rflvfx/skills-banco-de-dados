@@ -45,3 +45,4 @@
 - 2015-12-21: Add remark
 - 2015-02-19: Polish docs
 - 2015-08-28: Refine text
+- 2015-03-27: Update notes

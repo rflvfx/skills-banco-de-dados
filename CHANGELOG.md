@@ -78,3 +78,4 @@
 - 2015-02-08: Add detail
 - 2015-08-26: Typo fix
 - 2015-09-10: Improve docs
+- 2015-04-27: Improve docs

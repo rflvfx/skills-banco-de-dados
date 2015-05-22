@@ -73,3 +73,4 @@
 - 2015-10-28: Clarify section
 - 2015-01-18: Refine text
 - 2015-07-26: Add remark
+- 2015-05-22: Minor update

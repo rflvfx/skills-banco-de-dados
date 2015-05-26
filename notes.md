@@ -5,3 +5,4 @@
 - 2015-10-24: Review content
 - 2015-12-02: Update notes
 - 2015-02-20: Update notes
+- 2015-05-26: Fix example

@@ -47,3 +47,4 @@
 - 2015-08-28: Refine text
 - 2015-03-27: Update notes
 - 2015-04-20: Add note
+- 2015-06-17: Polish docs

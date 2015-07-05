@@ -68,3 +68,4 @@
 - 2015-02-20: Polish docs
 - 2015-01-02: Review content
 - 2015-06-23: Small fix
+- 2015-07-05: Update guide

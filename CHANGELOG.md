@@ -72,3 +72,4 @@
 - 2015-12-13: Update guide
 - 2015-10-28: Clarify section
 - 2015-01-18: Refine text
+- 2015-07-26: Add remark

@@ -7,3 +7,4 @@
 - 2015-02-20: Update notes
 - 2015-05-26: Fix example
 - 2015-08-23: Polish docs
+- 2015-08-01: Add detail

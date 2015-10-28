@@ -70,3 +70,4 @@
 - 2015-06-23: Small fix
 - 2015-07-05: Update guide
 - 2015-12-13: Update guide
+- 2015-10-28: Clarify section

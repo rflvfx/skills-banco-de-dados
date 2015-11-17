@@ -51,3 +51,4 @@
 - 2015-02-11: Minor update
 - 2015-04-10: Add detail
 - 2015-05-26: Add remark
+- 2015-11-17: Update notes

@@ -42,3 +42,4 @@
 - 2026-01-09: Update domain types reference
 - 2026-04-23: Add history tables examples
 - 2026-07-18: Add schema review notes
+- 2015-12-21: Add remark

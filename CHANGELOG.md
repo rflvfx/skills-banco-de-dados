@@ -94,3 +94,4 @@
 - 2016-06-05: Small fix
 - 2016-08-18: Refine text
 - 2016-09-02: Improve docs
+- 2016-01-02: Fix example

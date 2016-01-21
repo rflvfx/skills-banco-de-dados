@@ -122,3 +122,4 @@
 - 2016-11-21: Clarify section
 - 2016-08-28: Minor update
 - 2016-09-09: Add note
+- 2016-01-21: Fix example

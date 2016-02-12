@@ -106,3 +106,4 @@
 - 2016-12-07: Add detail
 - 2016-03-27: Add remark
 - 2016-05-25: Update notes
+- 2016-02-12: Improve docs

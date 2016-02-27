@@ -107,3 +107,4 @@
 - 2016-03-27: Add remark
 - 2016-05-25: Update notes
 - 2016-02-12: Improve docs
+- 2016-02-27: Polish docs

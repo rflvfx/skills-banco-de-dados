@@ -20,3 +20,4 @@
 - 2016-10-26: Clarify section
 - 2016-01-21: Typo fix
 - 2016-09-15: Add remark
+- 2016-04-09: Typo fix

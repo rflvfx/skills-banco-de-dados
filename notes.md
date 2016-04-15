@@ -21,3 +21,4 @@
 - 2016-01-21: Typo fix
 - 2016-09-15: Add remark
 - 2016-04-09: Typo fix
+- 2016-04-15: Improve docs

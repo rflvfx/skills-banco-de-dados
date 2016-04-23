@@ -23,3 +23,4 @@
 - 2016-04-09: Typo fix
 - 2016-04-15: Improve docs
 - 2016-10-13: Adjust content
+- 2016-04-23: Minor update

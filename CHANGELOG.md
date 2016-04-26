@@ -6,3 +6,4 @@
 - 2016-01-09: Update aggregation mapping reference
 - 2016-02-13: Expand key selection docs
 - 2016-03-09: Refine referential actions guide
+- 2016-04-26: Expand view design docs

@@ -14,3 +14,4 @@
 - 2016-09-24: Refine text
 - 2016-12-26: Review content
 - 2016-10-15: Adjust content
+- 2016-05-17: Review content

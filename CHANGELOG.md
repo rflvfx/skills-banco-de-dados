@@ -86,3 +86,4 @@
 - 2015-02-25: Review content
 - 2016-03-22: Small fix
 - 2016-11-19: Small fix
+- 2016-05-27: Clarify section

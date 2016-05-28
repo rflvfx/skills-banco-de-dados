@@ -111,3 +111,4 @@
 - 2016-05-15: Refine text
 - 2016-12-25: Minor update
 - 2016-03-28: Add detail
+- 2016-05-28: Improve docs

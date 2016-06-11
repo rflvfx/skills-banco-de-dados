@@ -25,3 +25,4 @@
 - 2016-10-13: Adjust content
 - 2016-04-23: Minor update
 - 2016-12-12: Minor update
+- 2016-06-11: Update guide

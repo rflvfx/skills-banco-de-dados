@@ -97,3 +97,4 @@
 - 2016-01-02: Fix example
 - 2016-10-12: Update guide
 - 2016-01-27: Fix example
+- 2016-09-03: Fix example

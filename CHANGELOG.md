@@ -121,3 +121,4 @@
 - 2016-12-02: Add remark
 - 2016-11-21: Clarify section
 - 2016-08-28: Minor update
+- 2016-09-09: Add note

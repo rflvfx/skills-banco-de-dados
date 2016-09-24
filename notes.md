@@ -11,3 +11,4 @@
 - 2015-04-07: Fix example
 - 2015-02-03: Update notes
 - 2015-04-13: Expand section
+- 2016-09-24: Refine text

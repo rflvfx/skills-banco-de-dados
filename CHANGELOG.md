@@ -117,3 +117,4 @@
 - 2016-10-14: Polish docs
 - 2016-03-18: Fix example
 - 2016-03-21: Minor update
+- 2016-10-01: Add note

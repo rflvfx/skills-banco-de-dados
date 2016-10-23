@@ -100,3 +100,4 @@
 - 2016-09-03: Fix example
 - 2016-11-06: Improve docs
 - 2016-10-08: Update guide
+- 2016-10-23: Review content

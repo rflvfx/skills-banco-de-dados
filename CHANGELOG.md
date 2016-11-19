@@ -85,3 +85,4 @@
 - 2015-09-11: Add detail
 - 2015-02-25: Review content
 - 2016-03-22: Small fix
+- 2016-11-19: Small fix

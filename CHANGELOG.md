@@ -109,3 +109,4 @@
 - 2016-02-12: Improve docs
 - 2016-02-27: Polish docs
 - 2016-05-15: Refine text
+- 2016-12-25: Minor update

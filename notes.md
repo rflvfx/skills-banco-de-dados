@@ -12,3 +12,4 @@
 - 2015-02-03: Update notes
 - 2015-04-13: Expand section
 - 2016-09-24: Refine text
+- 2016-12-26: Review content

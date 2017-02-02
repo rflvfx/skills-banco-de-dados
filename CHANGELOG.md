@@ -130,3 +130,4 @@
 - 2017-06-25: Expand section
 - 2017-10-14: Refine text
 - 2017-11-09: Add note
+- 2017-02-02: Update notes

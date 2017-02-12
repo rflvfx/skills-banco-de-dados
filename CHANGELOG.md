@@ -158,3 +158,4 @@
 - 2017-08-03: Update notes
 - 2017-05-23: Add remark
 - 2017-09-12: Refine text
+- 2017-02-12: Add note

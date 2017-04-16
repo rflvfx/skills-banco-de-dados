@@ -160,3 +160,4 @@
 - 2017-09-12: Refine text
 - 2017-02-12: Add note
 - 2017-12-06: Adjust content
+- 2017-04-16: Refine text

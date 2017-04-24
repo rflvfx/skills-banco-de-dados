@@ -30,3 +30,4 @@
 - 2017-12-01: Expand section
 - 2017-10-01: Typo fix
 - 2017-07-25: Small fix
+- 2017-04-24: Small fix

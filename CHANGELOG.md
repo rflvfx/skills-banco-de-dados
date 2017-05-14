@@ -150,3 +150,4 @@
 - 2017-07-08: Polish docs
 - 2017-09-16: Add note
 - 2017-04-04: Typo fix
+- 2017-05-14: Update guide

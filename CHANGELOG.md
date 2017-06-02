@@ -142,3 +142,4 @@
 - 2017-07-27: Small fix
 - 2017-01-25: Typo fix
 - 2017-09-24: Expand section
+- 2017-06-02: Minor update

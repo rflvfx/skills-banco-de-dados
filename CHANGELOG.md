@@ -147,3 +147,4 @@
 - 2017-09-05: Add detail
 - 2017-03-07: Add note
 - 2017-11-14: Add note
+- 2017-07-08: Polish docs

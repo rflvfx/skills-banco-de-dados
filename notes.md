@@ -35,3 +35,4 @@
 - 2017-01-09: Add detail
 - 2017-12-03: Add note
 - 2017-06-15: Review content
+- 2017-09-01: Review content

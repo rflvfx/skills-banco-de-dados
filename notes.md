@@ -37,3 +37,4 @@
 - 2017-06-15: Review content
 - 2017-09-01: Review content
 - 2017-09-17: Update guide
+- 2017-09-01: Minor update

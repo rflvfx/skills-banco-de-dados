@@ -157,3 +157,4 @@
 - 2017-10-12: Expand section
 - 2017-08-03: Update notes
 - 2017-05-23: Add remark
+- 2017-09-12: Refine text

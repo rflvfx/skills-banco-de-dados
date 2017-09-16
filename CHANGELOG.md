@@ -148,3 +148,4 @@
 - 2017-03-07: Add note
 - 2017-11-14: Add note
 - 2017-07-08: Polish docs
+- 2017-09-16: Add note

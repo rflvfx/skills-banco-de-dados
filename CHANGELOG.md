@@ -141,3 +141,4 @@
 - 2017-07-21: Fix example
 - 2017-07-27: Small fix
 - 2017-01-25: Typo fix
+- 2017-09-24: Expand section

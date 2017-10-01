@@ -28,3 +28,4 @@
 - 2016-06-11: Update guide
 - 2017-05-04: Adjust content
 - 2017-12-01: Expand section
+- 2017-10-01: Typo fix

@@ -128,3 +128,4 @@
 - 2017-01-05: Small fix
 - 2017-06-15: Add remark
 - 2017-06-25: Expand section
+- 2017-10-14: Refine text

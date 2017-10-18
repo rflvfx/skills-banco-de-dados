@@ -41,3 +41,4 @@
 - 2017-01-04: Clarify section
 - 2017-12-14: Expand section
 - 2017-12-07: Add detail
+- 2017-10-18: Update guide

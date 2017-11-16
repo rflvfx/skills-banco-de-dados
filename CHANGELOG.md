@@ -8,3 +8,4 @@
 - 2016-03-09: Refine referential actions guide
 - 2016-04-26: Expand view design docs
 - 2017-04-07: Update integrity rules reference
+- 2017-11-16: Refine history tables guide

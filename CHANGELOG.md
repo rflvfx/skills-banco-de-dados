@@ -151,3 +151,4 @@
 - 2017-09-16: Add note
 - 2017-04-04: Typo fix
 - 2017-05-14: Update guide
+- 2017-11-17: Fix example

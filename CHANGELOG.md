@@ -132,3 +132,4 @@
 - 2017-11-09: Add note
 - 2017-02-02: Update notes
 - 2017-08-25: Expand section
+- 2017-12-10: Review content

@@ -39,3 +39,4 @@
 - 2017-09-17: Update guide
 - 2017-09-01: Minor update
 - 2017-01-04: Clarify section
+- 2017-12-14: Expand section

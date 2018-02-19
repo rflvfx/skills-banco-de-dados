@@ -44,3 +44,4 @@
 - 2017-10-18: Update guide
 - 2018-12-05: Minor update
 - 2018-04-28: Update guide
+- 2018-02-19: Expand section

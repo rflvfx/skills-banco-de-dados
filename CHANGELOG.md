@@ -175,3 +175,4 @@
 - 2018-12-10: Typo fix
 - 2018-03-03: Clarify section
 - 2018-09-12: Clarify section
+- 2018-05-10: Adjust content

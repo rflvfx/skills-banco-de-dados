@@ -47,3 +47,4 @@
 - 2018-02-19: Expand section
 - 2018-09-05: Add remark
 - 2018-09-15: Update guide
+- 2018-05-24: Small fix

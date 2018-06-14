@@ -48,3 +48,4 @@
 - 2018-09-05: Add remark
 - 2018-09-15: Update guide
 - 2018-05-24: Small fix
+- 2018-06-14: Review content

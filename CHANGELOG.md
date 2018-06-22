@@ -169,3 +169,4 @@
 - 2018-09-16: Add note
 - 2018-05-27: Update notes
 - 2018-01-09: Add note
+- 2018-06-22: Clarify section

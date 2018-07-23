@@ -194,3 +194,4 @@
 - 2018-09-08: Improve docs
 - 2018-09-27: Minor update
 - 2018-03-04: Update guide
+- 2018-07-23: Add note

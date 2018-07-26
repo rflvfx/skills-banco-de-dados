@@ -164,3 +164,4 @@
 - 2018-09-15: Add note
 - 2018-05-10: Refine text
 - 2018-11-10: Refine text
+- 2018-07-26: Expand section

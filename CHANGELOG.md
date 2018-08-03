@@ -200,3 +200,4 @@
 - 2018-10-15: Update guide
 - 2018-09-20: Typo fix
 - 2018-09-03: Clarify section
+- 2018-08-03: Minor update

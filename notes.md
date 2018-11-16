@@ -49,3 +49,4 @@
 - 2018-09-15: Update guide
 - 2018-05-24: Small fix
 - 2018-06-14: Review content
+- 2018-11-16: Add note

@@ -172,3 +172,4 @@
 - 2018-06-22: Clarify section
 - 2018-03-16: Typo fix
 - 2018-12-23: Update notes
+- 2018-12-10: Typo fix

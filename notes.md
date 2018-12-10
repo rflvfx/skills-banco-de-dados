@@ -52,3 +52,4 @@
 - 2018-11-16: Add note
 - 2018-05-15: Add note
 - 2018-07-19: Fix example
+- 2018-12-10: Add note

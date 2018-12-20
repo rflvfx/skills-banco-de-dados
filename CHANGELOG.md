@@ -178,3 +178,4 @@
 - 2018-05-10: Adjust content
 - 2018-12-20: Small fix
 - 2018-02-06: Review content
+- 2018-12-20: Refine text

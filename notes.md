@@ -65,3 +65,4 @@
 - 2019-06-16: Typo fix
 - 2019-03-04: Review content
 - 2019-10-10: Fix example
+- 2019-01-11: Clarify section

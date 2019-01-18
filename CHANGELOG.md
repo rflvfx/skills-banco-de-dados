@@ -220,3 +220,4 @@
 - 2019-01-16: Add remark
 - 2019-02-10: Update notes
 - 2019-12-16: Review content
+- 2019-01-18: Update notes

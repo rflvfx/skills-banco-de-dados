@@ -242,3 +242,4 @@
 - 2019-02-14: Clarify section
 - 2019-11-11: Add note
 - 2019-03-11: Add remark
+- 2019-02-09: Minor update

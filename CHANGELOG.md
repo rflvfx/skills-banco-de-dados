@@ -218,3 +218,4 @@
 - 2019-08-10: Add remark
 - 2019-02-16: Update guide
 - 2019-01-16: Add remark
+- 2019-02-10: Update notes

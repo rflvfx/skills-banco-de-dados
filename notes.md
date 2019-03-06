@@ -67,3 +67,4 @@
 - 2019-10-10: Fix example
 - 2019-01-11: Clarify section
 - 2019-04-13: Update guide
+- 2019-03-06: Adjust content

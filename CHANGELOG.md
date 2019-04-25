@@ -11,3 +11,4 @@
 - 2017-11-16: Refine history tables guide
 - 2018-03-21: Expand schema review docs
 - 2018-07-26: Add documentation examples
+- 2019-04-25: Review weak entities section

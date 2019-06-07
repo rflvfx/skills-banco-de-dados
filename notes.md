@@ -56,3 +56,4 @@
 - 2018-06-18: Adjust content
 - 2018-04-07: Update notes
 - 2018-02-14: Add remark
+- 2019-06-07: Add note

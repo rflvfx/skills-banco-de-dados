@@ -62,3 +62,4 @@
 - 2019-06-18: Add detail
 - 2019-12-14: Add detail
 - 2019-09-19: Update guide
+- 2019-06-16: Typo fix

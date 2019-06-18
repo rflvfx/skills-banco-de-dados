@@ -59,3 +59,4 @@
 - 2019-06-07: Add note
 - 2019-03-20: Adjust content
 - 2019-10-09: Expand section
+- 2019-06-18: Add detail

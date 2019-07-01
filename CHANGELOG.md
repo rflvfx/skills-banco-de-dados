@@ -228,3 +228,4 @@
 - 2019-01-06: Clarify section
 - 2019-12-05: Clarify section
 - 2019-11-06: Adjust content
+- 2019-07-01: Add note

@@ -203,3 +203,4 @@
 - 2018-08-03: Minor update
 - 2018-04-23: Minor update
 - 2019-12-05: Refine text
+- 2019-08-02: Minor update

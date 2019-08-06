@@ -234,3 +234,4 @@
 - 2019-11-18: Add remark
 - 2019-11-01: Polish docs
 - 2019-04-03: Improve docs
+- 2019-08-06: Adjust content

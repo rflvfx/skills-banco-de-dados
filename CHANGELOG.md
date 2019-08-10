@@ -215,3 +215,4 @@
 - 2019-01-16: Update notes
 - 2019-07-10: Review content
 - 2019-08-03: Clarify section
+- 2019-08-10: Add remark

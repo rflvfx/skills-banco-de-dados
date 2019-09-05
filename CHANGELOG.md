@@ -223,3 +223,4 @@
 - 2019-01-18: Update notes
 - 2019-08-21: Polish docs
 - 2019-04-27: Typo fix
+- 2019-09-05: Add detail

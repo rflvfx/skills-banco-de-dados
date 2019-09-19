@@ -61,3 +61,4 @@
 - 2019-10-09: Expand section
 - 2019-06-18: Add detail
 - 2019-12-14: Add detail
+- 2019-09-19: Update guide

@@ -243,3 +243,4 @@
 - 2019-11-11: Add note
 - 2019-03-11: Add remark
 - 2019-02-09: Minor update
+- 2019-10-13: Typo fix

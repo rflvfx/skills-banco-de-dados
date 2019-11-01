@@ -232,3 +232,4 @@
 - 2019-03-10: Improve docs
 - 2019-01-02: Add remark
 - 2019-11-18: Add remark
+- 2019-11-01: Polish docs

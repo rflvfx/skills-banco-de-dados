@@ -240,3 +240,4 @@
 - 2019-01-02: Update notes
 - 2019-03-25: Add remark
 - 2019-02-14: Clarify section
+- 2019-11-11: Add note

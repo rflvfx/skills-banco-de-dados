@@ -206,3 +206,4 @@
 - 2019-08-02: Minor update
 - 2019-05-19: Add remark
 - 2019-09-21: Minor update
+- 2019-11-13: Refine text

@@ -226,3 +226,4 @@
 - 2019-09-05: Add detail
 - 2019-01-25: Typo fix
 - 2019-01-06: Clarify section
+- 2019-12-05: Clarify section

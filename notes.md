@@ -60,3 +60,4 @@
 - 2019-03-20: Adjust content
 - 2019-10-09: Expand section
 - 2019-06-18: Add detail
+- 2019-12-14: Add detail

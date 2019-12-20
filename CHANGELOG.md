@@ -210,3 +210,4 @@
 - 2019-07-23: Typo fix
 - 2019-06-18: Add note
 - 2019-11-02: Adjust content
+- 2019-12-20: Polish docs

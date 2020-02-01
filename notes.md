@@ -75,3 +75,4 @@
 - 2020-04-25: Add note
 - 2020-08-15: Review content
 - 2020-04-26: Update guide
+- 2020-02-01: Small fix

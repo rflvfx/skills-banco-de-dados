@@ -279,3 +279,4 @@
 - 2020-08-15: Add remark
 - 2020-03-18: Typo fix
 - 2020-03-02: Improve docs
+- 2020-02-10: Clarify section

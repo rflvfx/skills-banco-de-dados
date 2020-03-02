@@ -278,3 +278,4 @@
 - 2020-08-13: Typo fix
 - 2020-08-15: Add remark
 - 2020-03-18: Typo fix
+- 2020-03-02: Improve docs

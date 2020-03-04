@@ -246,3 +246,4 @@
 - 2019-10-13: Typo fix
 - 2019-07-21: Fix example
 - 2019-04-25: Refine text
+- 2020-03-04: Update guide

@@ -257,3 +257,4 @@
 - 2020-06-20: Fix example
 - 2020-05-26: Typo fix
 - 2020-01-03: Update guide
+- 2020-03-09: Update notes

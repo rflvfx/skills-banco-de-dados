@@ -13,3 +13,4 @@
 - 2018-07-26: Add documentation examples
 - 2019-04-25: Review weak entities section
 - 2019-08-07: Document attribute types
+- 2020-03-22: Expand aggregation mapping docs

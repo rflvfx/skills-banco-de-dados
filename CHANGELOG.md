@@ -264,3 +264,4 @@
 - 2020-05-25: Polish docs
 - 2020-03-19: Improve docs
 - 2020-04-25: Add remark
+- 2020-04-03: Expand section

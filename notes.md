@@ -85,3 +85,4 @@
 - 2020-06-03: Update guide
 - 2020-12-04: Typo fix
 - 2020-02-04: Minor update
+- 2020-04-07: Typo fix

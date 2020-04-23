@@ -69,3 +69,4 @@
 - 2019-04-13: Update guide
 - 2019-03-06: Adjust content
 - 2019-03-20: Typo fix
+- 2020-04-23: Add note

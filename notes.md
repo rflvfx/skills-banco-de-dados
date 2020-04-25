@@ -72,3 +72,4 @@
 - 2020-04-23: Add note
 - 2020-01-20: Minor update
 - 2020-01-02: Polish docs
+- 2020-04-25: Add note

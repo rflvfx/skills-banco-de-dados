@@ -14,3 +14,4 @@
 - 2019-04-25: Review weak entities section
 - 2019-08-07: Document attribute types
 - 2020-03-22: Expand aggregation mapping docs
+- 2020-04-26: Refine key selection guide

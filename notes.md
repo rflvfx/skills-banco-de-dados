@@ -74,3 +74,4 @@
 - 2020-01-02: Polish docs
 - 2020-04-25: Add note
 - 2020-08-15: Review content
+- 2020-04-26: Update guide

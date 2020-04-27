@@ -271,3 +271,4 @@
 - 2020-02-28: Small fix
 - 2020-08-22: Clarify section
 - 2020-03-14: Add note
+- 2020-04-27: Add note

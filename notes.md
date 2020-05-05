@@ -80,3 +80,4 @@
 - 2020-08-25: Add remark
 - 2020-03-13: Improve docs
 - 2020-07-16: Add note
+- 2020-05-05: Update guide

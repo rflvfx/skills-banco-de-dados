@@ -260,3 +260,4 @@
 - 2020-03-09: Update notes
 - 2020-05-21: Update notes
 - 2020-01-27: Update notes
+- 2020-05-06: Minor update

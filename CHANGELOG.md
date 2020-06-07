@@ -248,3 +248,4 @@
 - 2019-04-25: Refine text
 - 2020-03-04: Update guide
 - 2020-02-01: Fix example
+- 2020-06-07: Add detail

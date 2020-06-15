@@ -81,3 +81,4 @@
 - 2020-03-13: Improve docs
 - 2020-07-16: Add note
 - 2020-05-05: Update guide
+- 2020-06-15: Fix example

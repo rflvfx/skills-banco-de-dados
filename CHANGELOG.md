@@ -254,3 +254,4 @@
 - 2020-11-28: Fix example
 - 2020-10-09: Adjust content
 - 2020-02-02: Small fix
+- 2020-06-20: Fix example

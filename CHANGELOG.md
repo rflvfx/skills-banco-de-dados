@@ -280,3 +280,4 @@
 - 2020-03-18: Typo fix
 - 2020-03-02: Improve docs
 - 2020-02-10: Clarify section
+- 2020-07-05: Polish docs

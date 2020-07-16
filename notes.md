@@ -79,3 +79,4 @@
 - 2020-02-02: Minor update
 - 2020-08-25: Add remark
 - 2020-03-13: Improve docs
+- 2020-07-16: Add note

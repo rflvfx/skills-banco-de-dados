@@ -275,3 +275,4 @@
 - 2020-01-18: Add remark
 - 2020-11-15: Polish docs
 - 2020-02-28: Polish docs
+- 2020-08-13: Typo fix

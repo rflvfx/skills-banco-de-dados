@@ -265,3 +265,4 @@
 - 2020-03-19: Improve docs
 - 2020-04-25: Add remark
 - 2020-04-03: Expand section
+- 2020-08-16: Typo fix

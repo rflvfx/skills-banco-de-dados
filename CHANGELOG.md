@@ -252,3 +252,4 @@
 - 2020-05-10: Expand section
 - 2020-10-23: Review content
 - 2020-11-28: Fix example
+- 2020-10-09: Adjust content

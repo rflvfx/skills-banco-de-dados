@@ -273,3 +273,4 @@
 - 2020-03-14: Add note
 - 2020-04-27: Add note
 - 2020-01-18: Add remark
+- 2020-11-15: Polish docs

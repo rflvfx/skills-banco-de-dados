@@ -83,3 +83,4 @@
 - 2020-05-05: Update guide
 - 2020-06-15: Fix example
 - 2020-06-03: Update guide
+- 2020-12-04: Typo fix

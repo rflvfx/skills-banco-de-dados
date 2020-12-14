@@ -16,3 +16,4 @@
 - 2020-03-22: Expand aggregation mapping docs
 - 2020-04-26: Refine key selection guide
 - 2020-06-28: Add referential actions examples
+- 2020-12-14: Add view design examples

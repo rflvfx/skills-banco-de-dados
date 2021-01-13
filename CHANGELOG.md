@@ -316,3 +316,4 @@
 - 2021-03-06: Refine text
 - 2021-12-19: Improve docs
 - 2021-05-12: Add detail
+- 2021-01-13: Add note

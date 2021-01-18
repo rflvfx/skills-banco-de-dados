@@ -283,3 +283,4 @@
 - 2020-07-05: Polish docs
 - 2020-08-28: Small fix
 - 2020-03-04: Add detail
+- 2021-01-18: Minor update

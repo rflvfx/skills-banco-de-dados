@@ -88,3 +88,4 @@
 - 2020-04-07: Typo fix
 - 2021-06-10: Update notes
 - 2021-12-07: Update guide
+- 2021-03-01: Small fix

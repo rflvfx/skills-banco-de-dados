@@ -313,3 +313,4 @@
 - 2021-10-08: Polish docs
 - 2021-05-27: Improve docs
 - 2021-02-19: Clarify section
+- 2021-03-06: Refine text

@@ -291,3 +291,4 @@
 - 2021-11-18: Add remark
 - 2021-04-10: Add note
 - 2021-03-15: Review content
+- 2021-03-19: Add detail

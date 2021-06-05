@@ -98,3 +98,4 @@
 - 2021-10-16: Adjust content
 - 2021-08-22: Clarify section
 - 2021-07-13: Fix example
+- 2021-06-05: Expand section

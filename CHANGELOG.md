@@ -303,3 +303,4 @@
 - 2021-10-02: Expand section
 - 2021-05-20: Minor update
 - 2021-09-03: Fix example
+- 2021-06-07: Update guide

@@ -100,3 +100,4 @@
 - 2021-07-13: Fix example
 - 2021-06-05: Expand section
 - 2021-11-05: Add remark
+- 2021-07-09: Polish docs

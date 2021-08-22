@@ -96,3 +96,4 @@
 - 2021-08-22: Polish docs
 - 2021-03-06: Small fix
 - 2021-10-16: Adjust content
+- 2021-08-22: Clarify section

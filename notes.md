@@ -93,3 +93,4 @@
 - 2021-09-26: Add detail
 - 2021-03-01: Add remark
 - 2021-11-24: Clarify section
+- 2021-08-22: Polish docs

@@ -307,3 +307,4 @@
 - 2021-02-20: Clarify section
 - 2021-06-01: Update guide
 - 2021-10-28: Refine text
+- 2021-08-24: Minor update

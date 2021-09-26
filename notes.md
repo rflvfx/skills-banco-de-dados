@@ -90,3 +90,4 @@
 - 2021-12-07: Update guide
 - 2021-03-01: Small fix
 - 2021-02-21: Update notes
+- 2021-09-26: Add detail

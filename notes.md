@@ -103,3 +103,4 @@
 - 2021-07-09: Polish docs
 - 2021-11-12: Expand section
 - 2021-11-10: Update notes
+- 2021-10-06: Update guide

@@ -19,3 +19,4 @@
 - 2020-12-14: Add view design examples
 - 2021-02-09: Expand index planning docs
 - 2021-05-23: Refine integrity rules guide
+- 2021-10-15: Improve domain types coverage

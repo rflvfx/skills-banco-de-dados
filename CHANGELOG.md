@@ -295,3 +295,4 @@
 - 2021-04-04: Fix example
 - 2021-02-26: Polish docs
 - 2021-12-12: Add remark
+- 2021-11-03: Expand section

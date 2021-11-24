@@ -92,3 +92,4 @@
 - 2021-02-21: Update notes
 - 2021-09-26: Add detail
 - 2021-03-01: Add remark
+- 2021-11-24: Clarify section

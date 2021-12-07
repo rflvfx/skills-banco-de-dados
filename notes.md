@@ -87,3 +87,4 @@
 - 2020-02-04: Minor update
 - 2020-04-07: Typo fix
 - 2021-06-10: Update notes
+- 2021-12-07: Update guide

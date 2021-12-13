@@ -20,3 +20,4 @@
 - 2021-02-09: Expand index planning docs
 - 2021-05-23: Refine integrity rules guide
 - 2021-10-15: Improve domain types coverage
+- 2021-12-13: Add history tables notes

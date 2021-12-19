@@ -314,3 +314,4 @@
 - 2021-05-27: Improve docs
 - 2021-02-19: Clarify section
 - 2021-03-06: Refine text
+- 2021-12-19: Improve docs

@@ -285,3 +285,4 @@
 - 2020-03-04: Add detail
 - 2021-01-18: Minor update
 - 2021-06-11: Adjust content
+- 2021-12-19: Small fix

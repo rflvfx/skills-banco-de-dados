@@ -340,3 +340,4 @@
 - 2022-07-11: Expand section
 - 2022-06-01: Add remark
 - 2022-08-15: Improve docs
+- 2022-02-20: Add detail

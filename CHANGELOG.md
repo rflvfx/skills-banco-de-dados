@@ -321,3 +321,4 @@
 - 2021-02-09: Polish docs
 - 2021-08-27: Improve docs
 - 2022-01-15: Clarify section
+- 2022-02-23: Update notes

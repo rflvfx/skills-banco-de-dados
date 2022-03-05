@@ -341,3 +341,4 @@
 - 2022-06-01: Add remark
 - 2022-08-15: Improve docs
 - 2022-02-20: Add detail
+- 2022-03-05: Update notes

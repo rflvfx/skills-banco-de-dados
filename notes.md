@@ -106,3 +106,4 @@
 - 2021-10-06: Update guide
 - 2022-09-06: Update notes
 - 2022-08-28: Fix example
+- 2022-06-02: Refine text

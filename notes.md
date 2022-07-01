@@ -117,3 +117,4 @@
 - 2022-10-03: Improve docs
 - 2022-09-22: Update notes
 - 2022-05-28: Add remark
+- 2022-07-01: Update notes

@@ -108,3 +108,4 @@
 - 2022-08-28: Fix example
 - 2022-06-02: Refine text
 - 2022-06-09: Typo fix
+- 2022-07-15: Update guide

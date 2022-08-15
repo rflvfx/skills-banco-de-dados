@@ -339,3 +339,4 @@
 - 2022-10-13: Add detail
 - 2022-07-11: Expand section
 - 2022-06-01: Add remark
+- 2022-08-15: Improve docs

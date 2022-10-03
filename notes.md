@@ -114,3 +114,4 @@
 - 2022-11-01: Add detail
 - 2022-11-02: Refine text
 - 2022-05-15: Minor update
+- 2022-10-03: Improve docs

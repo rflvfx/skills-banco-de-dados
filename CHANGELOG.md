@@ -359,3 +359,4 @@
 - 2022-09-22: Add note
 - 2022-05-11: Add note
 - 2022-12-19: Polish docs
+- 2022-10-15: Small fix

@@ -21,3 +21,4 @@
 - 2021-05-23: Refine integrity rules guide
 - 2021-10-15: Improve domain types coverage
 - 2021-12-13: Add history tables notes
+- 2022-10-22: Expand documentation docs

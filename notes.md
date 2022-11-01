@@ -111,3 +111,4 @@
 - 2022-07-15: Update guide
 - 2022-04-01: Add note
 - 2022-01-09: Review content
+- 2022-11-01: Add detail

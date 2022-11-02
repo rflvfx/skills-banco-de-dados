@@ -112,3 +112,4 @@
 - 2022-04-01: Add note
 - 2022-01-09: Review content
 - 2022-11-01: Add detail
+- 2022-11-02: Refine text

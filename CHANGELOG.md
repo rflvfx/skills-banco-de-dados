@@ -31,3 +31,4 @@
 - 2026-01-09: Improve schema review coverage
 - 2026-03-09: Document naming standards
 - 2026-04-10: Update documentation reference
+- 2022-12-18: Add cardinality rules notes

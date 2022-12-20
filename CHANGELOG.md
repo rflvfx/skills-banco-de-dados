@@ -348,3 +348,4 @@
 - 2022-07-07: Clarify section
 - 2022-03-11: Update guide
 - 2022-04-16: Adjust content
+- 2022-12-20: Adjust content

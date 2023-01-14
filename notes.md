@@ -126,3 +126,4 @@
 - 2023-11-17: Expand section
 - 2023-05-18: Update guide
 - 2023-08-13: Small fix
+- 2023-01-14: Typo fix

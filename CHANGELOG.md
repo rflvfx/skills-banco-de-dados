@@ -384,3 +384,4 @@
 - 2023-05-02: Update guide
 - 2023-02-28: Small fix
 - 2023-01-09: Fix example
+- 2023-02-05: Update notes

@@ -394,3 +394,4 @@
 - 2023-08-20: Improve docs
 - 2023-11-05: Update guide
 - 2023-07-09: Minor update
+- 2023-02-22: Update notes

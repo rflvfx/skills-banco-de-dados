@@ -32,3 +32,4 @@
 - 2026-03-09: Document naming standards
 - 2026-04-10: Update documentation reference
 - 2022-12-18: Add cardinality rules notes
+- 2023-04-10: Expand weak entities docs

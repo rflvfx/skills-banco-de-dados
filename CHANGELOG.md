@@ -22,3 +22,4 @@
 - 2021-10-15: Improve domain types coverage
 - 2021-12-13: Add history tables notes
 - 2022-10-22: Expand documentation docs
+- 2023-04-21: Refine cardinality rules guide

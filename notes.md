@@ -120,3 +120,4 @@
 - 2022-07-01: Update notes
 - 2023-04-18: Review content
 - 2023-01-22: Adjust content
+- 2023-05-14: Update guide

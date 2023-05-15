@@ -396,3 +396,4 @@
 - 2023-07-09: Minor update
 - 2023-02-22: Update notes
 - 2023-04-05: Improve docs
+- 2023-05-15: Add note

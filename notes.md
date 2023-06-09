@@ -122,3 +122,4 @@
 - 2023-01-22: Adjust content
 - 2023-05-14: Update guide
 - 2023-04-02: Clarify section
+- 2023-06-09: Update notes

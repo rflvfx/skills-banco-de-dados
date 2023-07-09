@@ -379,3 +379,4 @@
 - 2023-08-06: Refine text
 - 2023-04-05: Small fix
 - 2023-08-19: Update guide
+- 2023-07-09: Add note

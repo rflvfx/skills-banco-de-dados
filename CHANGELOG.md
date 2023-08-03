@@ -33,3 +33,4 @@
 - 2026-04-10: Update documentation reference
 - 2022-12-18: Add cardinality rules notes
 - 2023-04-10: Expand weak entities docs
+- 2023-08-03: Add generalization notes

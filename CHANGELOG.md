@@ -374,3 +374,4 @@
 - 2023-10-11: Minor update
 - 2023-07-14: Adjust content
 - 2023-11-03: Update notes
+- 2023-08-05: Update guide

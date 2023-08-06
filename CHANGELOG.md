@@ -376,3 +376,4 @@
 - 2023-11-03: Update notes
 - 2023-08-05: Update guide
 - 2023-06-23: Adjust content
+- 2023-08-06: Refine text

@@ -363,3 +363,4 @@
 - 2023-12-25: Minor update
 - 2023-05-26: Review content
 - 2023-12-22: Typo fix
+- 2023-08-11: Improve docs

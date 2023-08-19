@@ -378,3 +378,4 @@
 - 2023-06-23: Adjust content
 - 2023-08-06: Refine text
 - 2023-04-05: Small fix
+- 2023-08-19: Update guide

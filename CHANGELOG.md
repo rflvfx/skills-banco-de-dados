@@ -24,3 +24,4 @@
 - 2022-10-22: Expand documentation docs
 - 2023-04-21: Refine cardinality rules guide
 - 2023-06-02: Update weak entities reference
+- 2023-08-22: Document attribute types

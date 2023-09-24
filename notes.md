@@ -128,3 +128,4 @@
 - 2023-08-13: Small fix
 - 2023-01-14: Typo fix
 - 2023-02-22: Review content
+- 2023-09-24: Improve docs

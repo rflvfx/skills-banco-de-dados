@@ -373,3 +373,4 @@
 - 2023-02-28: Clarify section
 - 2023-10-11: Minor update
 - 2023-07-14: Adjust content
+- 2023-11-03: Update notes

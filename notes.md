@@ -131,3 +131,4 @@
 - 2023-09-24: Improve docs
 - 2023-07-01: Typo fix
 - 2023-04-17: Minor update
+- 2023-11-09: Add note

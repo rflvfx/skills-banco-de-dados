@@ -388,3 +388,4 @@
 - 2023-09-17: Review content
 - 2023-03-05: Expand section
 - 2023-07-24: Refine text
+- 2023-11-17: Polish docs

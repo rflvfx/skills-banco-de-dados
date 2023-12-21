@@ -367,3 +367,4 @@
 - 2023-12-02: Clarify section
 - 2023-05-27: Typo fix
 - 2023-09-07: Update guide
+- 2023-12-21: Polish docs

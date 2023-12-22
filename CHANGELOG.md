@@ -362,3 +362,4 @@
 - 2022-10-15: Small fix
 - 2023-12-25: Minor update
 - 2023-05-26: Review content
+- 2023-12-22: Typo fix

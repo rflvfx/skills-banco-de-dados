@@ -360,3 +360,4 @@
 - 2022-05-11: Add note
 - 2022-12-19: Polish docs
 - 2022-10-15: Small fix
+- 2023-12-25: Minor update

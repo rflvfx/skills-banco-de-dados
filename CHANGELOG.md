@@ -420,3 +420,4 @@
 - 2024-07-17: Improve docs
 - 2024-08-23: Expand section
 - 2024-01-12: Minor update
+- 2024-01-07: Adjust content

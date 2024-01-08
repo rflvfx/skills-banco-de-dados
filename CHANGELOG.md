@@ -407,3 +407,4 @@
 - 2024-10-14: Fix example
 - 2024-05-13: Refine text
 - 2024-08-14: Minor update
+- 2024-01-08: Adjust content

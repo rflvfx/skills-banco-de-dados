@@ -436,3 +436,4 @@
 - 2024-08-26: Refine text
 - 2024-02-12: Small fix
 - 2024-04-08: Fix example
+- 2024-02-01: Typo fix

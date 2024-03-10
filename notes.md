@@ -138,3 +138,4 @@
 - 2024-08-01: Add remark
 - 2024-10-27: Review content
 - 2024-01-15: Clarify section
+- 2024-03-10: Update guide

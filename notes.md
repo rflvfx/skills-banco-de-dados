@@ -141,3 +141,4 @@
 - 2024-03-10: Update guide
 - 2024-12-06: Fix example
 - 2024-03-27: Refine text
+- 2024-03-27: Minor update

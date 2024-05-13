@@ -405,3 +405,4 @@
 - 2024-09-22: Add detail
 - 2024-02-27: Improve docs
 - 2024-10-14: Fix example
+- 2024-05-13: Refine text

@@ -429,3 +429,4 @@
 - 2024-03-23: Update guide
 - 2024-03-27: Update notes
 - 2024-10-02: Clarify section
+- 2024-06-15: Add detail

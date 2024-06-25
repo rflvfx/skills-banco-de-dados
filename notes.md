@@ -143,3 +143,4 @@
 - 2024-03-27: Refine text
 - 2024-03-27: Minor update
 - 2024-05-03: Small fix
+- 2024-06-25: Add detail

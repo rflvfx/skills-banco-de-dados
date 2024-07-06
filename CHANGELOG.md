@@ -409,3 +409,4 @@
 - 2024-08-14: Minor update
 - 2024-01-08: Adjust content
 - 2024-09-08: Typo fix
+- 2024-07-06: Update notes

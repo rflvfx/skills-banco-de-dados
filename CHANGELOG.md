@@ -25,3 +25,4 @@
 - 2023-04-21: Refine cardinality rules guide
 - 2023-06-02: Update weak entities reference
 - 2023-08-22: Document attribute types
+- 2024-08-06: Add referential actions examples

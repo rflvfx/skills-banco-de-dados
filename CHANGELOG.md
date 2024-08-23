@@ -418,3 +418,4 @@
 - 2024-06-16: Typo fix
 - 2024-09-18: Small fix
 - 2024-07-17: Improve docs
+- 2024-08-23: Expand section

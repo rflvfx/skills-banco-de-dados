@@ -400,3 +400,4 @@
 - 2023-05-05: Polish docs
 - 2023-12-27: Small fix
 - 2024-12-14: Update guide
+- 2024-09-14: Expand section

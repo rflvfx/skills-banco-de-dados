@@ -26,3 +26,4 @@
 - 2023-06-02: Update weak entities reference
 - 2023-08-22: Document attribute types
 - 2024-08-06: Add referential actions examples
+- 2024-09-21: Update view design reference

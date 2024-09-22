@@ -402,3 +402,4 @@
 - 2024-12-14: Update guide
 - 2024-09-14: Expand section
 - 2024-01-23: Add detail
+- 2024-09-22: Add detail

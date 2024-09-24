@@ -432,3 +432,4 @@
 - 2024-06-15: Add detail
 - 2024-05-16: Clarify section
 - 2024-07-24: Typo fix
+- 2024-09-24: Add detail

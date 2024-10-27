@@ -136,3 +136,4 @@
 - 2024-11-15: Clarify section
 - 2024-05-06: Update notes
 - 2024-08-01: Add remark
+- 2024-10-27: Review content

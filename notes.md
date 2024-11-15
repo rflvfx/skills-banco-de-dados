@@ -133,3 +133,4 @@
 - 2023-04-17: Minor update
 - 2023-11-09: Add note
 - 2023-10-11: Update notes
+- 2024-11-15: Clarify section

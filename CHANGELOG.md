@@ -399,3 +399,4 @@
 - 2023-05-15: Add note
 - 2023-05-05: Polish docs
 - 2023-12-27: Small fix
+- 2024-12-14: Update guide

@@ -37,3 +37,4 @@
 - 2024-04-17: Document aggregation mapping
 - 2024-08-10: Update key selection reference
 - 2024-09-25: Expand referential actions docs
+- 2025-01-01: Add view design examples

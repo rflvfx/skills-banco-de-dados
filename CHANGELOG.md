@@ -467,3 +467,4 @@
 - 2025-02-26: Refine text
 - 2025-02-17: Review content
 - 2025-10-10: Adjust content
+- 2025-01-20: Improve docs

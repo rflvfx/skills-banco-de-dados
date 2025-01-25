@@ -440,3 +440,4 @@
 - 2025-09-17: Small fix
 - 2025-05-14: Add note
 - 2025-05-04: Update guide
+- 2025-01-25: Expand section

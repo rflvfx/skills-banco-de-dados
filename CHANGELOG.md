@@ -459,3 +459,4 @@
 - 2025-03-07: Add remark
 - 2025-11-01: Polish docs
 - 2025-07-15: Fix example
+- 2025-02-04: Add detail

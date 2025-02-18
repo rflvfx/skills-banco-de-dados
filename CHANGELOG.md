@@ -449,3 +449,4 @@
 - 2025-01-19: Update guide
 - 2025-08-03: Polish docs
 - 2025-10-02: Fix example
+- 2025-02-18: Minor update

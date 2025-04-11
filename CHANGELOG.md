@@ -470,3 +470,4 @@
 - 2025-01-20: Improve docs
 - 2025-11-04: Add detail
 - 2025-07-11: Fix example
+- 2025-04-11: Typo fix

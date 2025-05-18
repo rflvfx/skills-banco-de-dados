@@ -463,3 +463,4 @@
 - 2025-11-25: Typo fix
 - 2025-03-22: Polish docs
 - 2025-08-14: Adjust content
+- 2025-05-18: Expand section

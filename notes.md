@@ -145,3 +145,4 @@
 - 2024-05-03: Small fix
 - 2024-06-25: Add detail
 - 2024-01-06: Adjust content
+- 2025-07-06: Adjust content

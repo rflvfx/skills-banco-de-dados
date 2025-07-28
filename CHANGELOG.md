@@ -445,3 +445,4 @@
 - 2025-10-22: Expand section
 - 2025-11-26: Minor update
 - 2025-03-22: Review content
+- 2025-07-28: Clarify section

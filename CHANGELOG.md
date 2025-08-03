@@ -447,3 +447,4 @@
 - 2025-03-22: Review content
 - 2025-07-28: Clarify section
 - 2025-01-19: Update guide
+- 2025-08-03: Polish docs

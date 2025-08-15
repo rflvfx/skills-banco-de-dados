@@ -441,3 +441,4 @@
 - 2025-05-14: Add note
 - 2025-05-04: Update guide
 - 2025-01-25: Expand section
+- 2025-08-15: Polish docs

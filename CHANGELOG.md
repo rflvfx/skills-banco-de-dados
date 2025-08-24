@@ -472,3 +472,4 @@
 - 2025-07-11: Fix example
 - 2025-04-11: Typo fix
 - 2025-05-15: Add note
+- 2025-08-24: Update notes

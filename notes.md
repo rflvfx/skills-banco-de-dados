@@ -155,3 +155,4 @@
 - 2025-11-23: Add remark
 - 2025-06-27: Review content
 - 2025-08-01: Small fix
+- 2025-09-09: Add detail

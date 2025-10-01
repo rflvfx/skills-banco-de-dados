@@ -156,3 +156,4 @@
 - 2025-06-27: Review content
 - 2025-08-01: Small fix
 - 2025-09-09: Add detail
+- 2025-10-01: Expand section

@@ -478,3 +478,4 @@
 - 2025-08-04: Expand section
 - 2025-11-15: Fix example
 - 2025-04-13: Add detail
+- 2025-10-19: Minor update

@@ -454,3 +454,4 @@
 - 2025-07-25: Add detail
 - 2025-03-17: Improve docs
 - 2025-02-24: Minor update
+- 2025-10-20: Update notes

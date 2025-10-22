@@ -442,3 +442,4 @@
 - 2025-05-04: Update guide
 - 2025-01-25: Expand section
 - 2025-08-15: Polish docs
+- 2025-10-22: Expand section

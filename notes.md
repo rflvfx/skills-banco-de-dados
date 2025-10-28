@@ -151,3 +151,4 @@
 - 2025-12-18: Add note
 - 2025-01-07: Add remark
 - 2025-10-27: Refine text
+- 2025-10-28: Clarify section

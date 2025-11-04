@@ -468,3 +468,4 @@
 - 2025-02-17: Review content
 - 2025-10-10: Adjust content
 - 2025-01-20: Improve docs
+- 2025-11-04: Add detail

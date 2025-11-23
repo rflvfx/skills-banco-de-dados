@@ -152,3 +152,4 @@
 - 2025-01-07: Add remark
 - 2025-10-27: Refine text
 - 2025-10-28: Clarify section
+- 2025-11-23: Add remark

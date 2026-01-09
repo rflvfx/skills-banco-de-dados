@@ -28,3 +28,4 @@
 - 2024-08-06: Add referential actions examples
 - 2024-09-21: Update view design reference
 - 2025-12-19: Add history tables examples
+- 2026-01-09: Improve schema review coverage

@@ -509,3 +509,4 @@
 - 2026-02-17: Refine text
 - 2026-12-08: Typo fix
 - 2026-11-04: Clarify section
+- 2026-02-04: Polish docs

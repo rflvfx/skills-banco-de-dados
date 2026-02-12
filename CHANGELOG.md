@@ -482,3 +482,4 @@
 - 2026-10-24: Adjust content
 - 2026-07-15: Add detail
 - 2026-10-13: Polish docs
+- 2026-02-12: Typo fix

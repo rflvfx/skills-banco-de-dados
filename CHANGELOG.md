@@ -484,3 +484,4 @@
 - 2026-10-13: Polish docs
 - 2026-02-12: Typo fix
 - 2026-08-28: Add note
+- 2026-02-22: Expand section

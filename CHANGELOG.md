@@ -29,3 +29,4 @@
 - 2024-09-21: Update view design reference
 - 2025-12-19: Add history tables examples
 - 2026-01-09: Improve schema review coverage
+- 2026-03-09: Document naming standards

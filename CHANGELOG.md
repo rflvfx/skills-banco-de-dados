@@ -500,3 +500,4 @@
 - 2026-07-12: Add remark
 - 2026-02-21: Refine text
 - 2026-10-20: Polish docs
+- 2026-03-18: Update notes

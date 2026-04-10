@@ -30,3 +30,4 @@
 - 2025-12-19: Add history tables examples
 - 2026-01-09: Improve schema review coverage
 - 2026-03-09: Document naming standards
+- 2026-04-10: Update documentation reference

@@ -40,3 +40,4 @@
 - 2025-01-01: Add view design examples
 - 2025-11-23: Improve integrity rules coverage
 - 2026-01-09: Update domain types reference
+- 2026-04-23: Add history tables examples

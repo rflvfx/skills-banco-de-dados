@@ -511,3 +511,4 @@
 - 2026-11-04: Clarify section
 - 2026-02-04: Polish docs
 - 2026-02-15: Add detail
+- 2026-06-05: Add detail

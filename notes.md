@@ -162,3 +162,4 @@
 - 2026-05-28: Add remark
 - 2026-10-21: Update notes
 - 2026-03-09: Minor update
+- 2026-06-07: Adjust content

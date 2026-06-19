@@ -491,3 +491,4 @@
 - 2026-10-14: Add detail
 - 2026-12-12: Polish docs
 - 2026-05-28: Minor update
+- 2026-06-19: Fix example

@@ -480,3 +480,4 @@
 - 2025-04-13: Add detail
 - 2025-10-19: Minor update
 - 2026-10-24: Adjust content
+- 2026-07-15: Add detail

@@ -1,20 +1,13 @@
 # skills-banco-de-dados
 
-Habilidade: **Banco de Dados**
+Mini laboratorio com MySQL, PostgreSQL e MongoDB via Docker Compose.
 
-## Anos de experiencia
+## Como rodar
 
-_Atualize este campo com o tempo de experiencia real._
+```bash
+docker-compose up -d
+```
 
-## Sobre
-
-Repositorio de referencia para a habilidade **Banco de Dados**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=Banco de Dados+documentacao)
+- MySQL: `mysql://root:root@localhost:3306/db`
+- PostgreSQL: `postgres://postgres:postgres@localhost:5432/db`
+- MongoDB: `mongodb://localhost:27017/db`

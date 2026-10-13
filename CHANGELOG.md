@@ -487,3 +487,4 @@
 - 2026-02-22: Expand section
 - 2026-11-27: Update guide
 - 2026-08-16: Small fix
+- 2026-10-13: Adjust content

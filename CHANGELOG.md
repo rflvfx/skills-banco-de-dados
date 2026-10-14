@@ -504,3 +504,4 @@
 - 2026-10-22: Small fix
 - 2026-04-14: Polish docs
 - 2026-08-03: Typo fix
+- 2026-10-14: Update notes

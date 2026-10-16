@@ -1,13 +1,24 @@
+<div align="center">
+
 # skills-banco-de-dados
 
-Mini laboratorio com MySQL, PostgreSQL e MongoDB via Docker Compose.
+**Banco de Dados (PT-BR)** — modelagem, DDL, backup e tuning.
 
-## Como rodar
+</div>
 
-```bash
-docker-compose up -d
-```
+## 📋 Sobre
 
-- MySQL: `mysql://root:root@localhost:3306/db`
-- PostgreSQL: `postgres://postgres:postgres@localhost:5432/db`
-- MongoDB: `mongodb://localhost:27017/db`
+Guia completo de banco de dados em português: modelagem conceitual, DDL, estratégia de backup e tuning de performance.
+
+## 📂 Conteúdo
+
+- `modelagem.md` — etapas de modelagem
+- `der.md` — diagrama entidade-relacionamento
+- `ddl.sql` — exemplos de DDL
+- `backup.md` — estratégia 3-2-1
+- `tuning.md` — guia de otimização
+- `scripts/` / `docker-compose.yml`
+
+## 🧠 Tópicos cobertos
+
+`DER` `DDL` `cardinalidade` `backup` `PITR` `tuning` `constraints`

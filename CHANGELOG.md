@@ -479,3 +479,4 @@
 - 2025-11-15: Fix example
 - 2025-04-13: Add detail
 - 2025-10-19: Minor update
+- 2026-10-24: Adjust content

@@ -508,3 +508,4 @@
 - 2026-04-28: Polish docs
 - 2026-02-17: Refine text
 - 2026-12-08: Typo fix
+- 2026-11-04: Clarify section

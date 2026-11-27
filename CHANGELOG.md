@@ -485,3 +485,4 @@
 - 2026-02-12: Typo fix
 - 2026-08-28: Add note
 - 2026-02-22: Expand section
+- 2026-11-27: Update guide
